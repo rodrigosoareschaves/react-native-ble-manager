@@ -20,6 +20,7 @@
   return [NSString stringWithString:hexString];
 }
 
+
 #pragma mark - String Conversion
 - (NSArray *)toArray {
     /* Returns hexadecimal string of NSData. Empty string if data is empty.   */
